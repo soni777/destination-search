@@ -1,0 +1,14 @@
+.image-container {
+  text-align: center;
+  margin: 5px;
+}
+
+.image {
+  height: 200px;
+  width: 240px;
+}
+
+.image-title {
+  color: #252627;
+  font-size: 15px;
+}
